@@ -1,3 +1,4 @@
+/msg area/ 
 const generatemsg = function(username,text){
 
     return {
