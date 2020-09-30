@@ -1,4 +1,5 @@
-/* General Styles */
+
+/*Contains General  Styles */
 
 * {
     margin: 0;
@@ -47,6 +48,7 @@ button {
     transition: background .3s ease;
 }
 
+
 button:hover {
     background: #6b47b8;
 }
@@ -55,6 +57,7 @@ button:disabled {
     cursor: default;
     background: #7c5cbf94;
 }
+
 
 /* Join Page Styles */
 
